@@ -4,7 +4,7 @@
 # My Personal Web
 Website ini dibuat sebagai tugas minggu pertama
 
-![Foto Saya](/Foto Profil.jpg)
+![Foto Saya]((https://github.com/RevoU-FSSE-2/week-1-tifffar/blob/main/Foto%20Profil.jpg)
 
 ## Bahasa yang digunakan website ini
 
