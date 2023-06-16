@@ -4,7 +4,7 @@
 # My Personal Web
 Website ini dibuat sebagai tugas minggu pertama
 
-![Foto Saya](Foto Profil.jpg)
+![Foto Saya](/Foto Profil.jpg)
 
 ## Bahasa yang digunakan website ini
 
